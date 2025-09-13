@@ -8,4 +8,3 @@ Hi there! 👋
 💻 Experience as ML Engineer on EU-funded projects
 🌍 Eager to collaborate on innovative in NLP
 📫 Reach me at: aniezka.sherbakova@gmail.com
-"""
